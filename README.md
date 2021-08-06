@@ -28,6 +28,5 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Stakflerdt&layout=compact&langs_count=7&theme=radical&text_color=ffc457&title_color=ff5757&border_color=ff5757"/>
     
   ![Snake animation](https://github.com/Gustavo-Stakflerdt/Gustavo-Stakflerdt/blob/output/github-contribution-grid-snake.svg)
-</div:
 
   
