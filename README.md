@@ -11,8 +11,8 @@
 <span> 𝐌𝐚𝐢𝐧 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: </span>
 <div>
   <img align="center" alt="Gustavo-JavaIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gustavo-PythonIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-CsharpIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gustavo-PythonIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
   
 ##
