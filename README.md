@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif">
 
 - 👨🏻‍🏫 I'm 16 years old and I’m currently working as an english teacher.
-- ✍🏻 I’m currently studying Java, Spring Boot, .NET C# and Python.
+- ✍🏻 I’m currently studying Java (and Spring Boot), Python and .NET C#.
 - 📫 How to reach me: guthriller@gmail.com
   
 ##
@@ -11,8 +11,8 @@
 <span> 𝐌𝐚𝐢𝐧 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: </span>
 <div>
   <img align="center" alt="Gustavo-JavaIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gustavo-CsharpIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustavo-PythonIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Gustavo-CsharpIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
   
 ##
