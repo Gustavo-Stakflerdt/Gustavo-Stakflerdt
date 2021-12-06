@@ -2,8 +2,8 @@
 
 <img align="right" width="50%" src="https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif">
 
-- 👨🏻‍🏫 I'm 16 years old and I’m currently working as an english teacher.
-- ✍🏻 I’m currently studying Java (and Spring Boot), Python and .NET C#.
+- 💻 I'm 16 years old.
+- ✍🏻 I’m currently studying Java, Python and .NET C#.
 - 📫 How to reach me: guthriller@gmail.com
   
 ##
