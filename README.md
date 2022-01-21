@@ -1,10 +1,8 @@
 <span> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐆𝐮𝐬𝐭𝐚𝐯𝐨 𝐒𝐭𝐚𝐤𝐟𝐥𝐞𝐫𝐝𝐭! 👋🏻 </span>
 
-<img align="right" width="50%" src="https://blog.vindi.com.br/wp-content/uploads/2018/02/qual-futuro-do-pagamento.gif">
-
 - 💻 I'm 16 years old.
-- ✍🏻 I’m currently studying Java, Python and .NET C#.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-stakflerdt-8b1064214/)
+- ✍🏻 I've been studying Java, Python and .NET C# (but mostly Java).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-stakflerdt/)
   
 ##
 
@@ -18,8 +16,8 @@
 ##
 <details open="">
 <summary>
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
+    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="23">
+  <span> 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
 <br>
  <div>
