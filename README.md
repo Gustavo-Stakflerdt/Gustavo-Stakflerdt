@@ -4,7 +4,7 @@
 
 - 💻 I'm 16 years old.
 - ✍🏻 I’m currently studying Java, Python and .NET C#.
-- 📫 How to reach me: guthriller@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-stakflerdt-8b1064214/)
   
 ##
 
