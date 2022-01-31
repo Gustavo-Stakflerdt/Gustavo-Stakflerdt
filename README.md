@@ -1,7 +1,7 @@
 <span> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐆𝐮𝐬𝐭𝐚𝐯𝐨 𝐒𝐭𝐚𝐤𝐟𝐥𝐞𝐫𝐝𝐭! 👋🏻 </span>
 
 - 💻 I'm 16 years old.
-- ✍🏻 I've been studying Java, Python and .NET C# (but mostly Java).
+- ✍🏻 I've been studying Java, Python, .NET C# and JavaScript (but mostly Java).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-stakflerdt/)
   
 ##
@@ -11,6 +11,7 @@
   <img align="center" alt="Gustavo-JavaIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gustavo-PythonIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-CsharpIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gustavo-CsharpIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
 ##
