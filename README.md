@@ -1,6 +1,6 @@
 <span> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐆𝐮𝐬𝐭𝐚𝐯𝐨 𝐒𝐭𝐚𝐤𝐟𝐥𝐞𝐫𝐝𝐭! 👋🏻 </span>
 
-- 💻 I'm 17 years old.
+- 💻 I'm 18 years old.
 - ✍🏻 I've been studying Java, Python, C# and JavaScript (but mostly Java and Python).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gustavo-stakflerdt/)
   
